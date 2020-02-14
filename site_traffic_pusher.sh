@@ -1,0 +1,1 @@
+while true; do (curl http://34.107.216.81/ &); sleep 0.05; done
